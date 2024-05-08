@@ -8,9 +8,10 @@
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
-
 *   Tracken der Anzahl der gegessenen Kalorien des getrunkenen Wassers und der gelaufenen Schritte
 *   Unendliche Scroll-Funktion
 *   Click-Events
 *   Progress Bar
+
+<h2>Preview</h2>
+<img src="./PreviewImage.png" alt="project-screenshot" width=auto height="500/">
